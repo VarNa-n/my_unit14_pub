@@ -1,1 +1,2 @@
 File has been created on server
+This string has been added after update file on PC
