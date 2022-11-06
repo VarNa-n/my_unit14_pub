@@ -1,2 +1,3 @@
 Test Student 2 rep
 VarNa Изменила этот файл! # Не забывай про кодировку в Far-е!!!
+Stud2 updated this file
