@@ -1,6 +1,3 @@
 File has been created on server
-<<<<<<< HEAD
 + update on PC
-=======
 This string has been added after update file on PC
->>>>>>> f9668fe4b7bbb09bdc33c246c7d574732f624161
